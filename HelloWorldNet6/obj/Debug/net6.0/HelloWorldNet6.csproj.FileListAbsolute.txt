@@ -1,0 +1,15 @@
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\bin\Debug\net6.0\HelloWorldNet6.exe
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\bin\Debug\net6.0\HelloWorldNet6.deps.json
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\bin\Debug\net6.0\HelloWorldNet6.runtimeconfig.json
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\bin\Debug\net6.0\HelloWorldNet6.dll
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\bin\Debug\net6.0\ref\HelloWorldNet6.dll
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\bin\Debug\net6.0\HelloWorldNet6.pdb
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.AssemblyInfo.cs
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.dll
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\obj\Debug\net6.0\ref\HelloWorldNet6.dll
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.pdb
+D:\FullStackDevelopment\CSharpAndDotNet\HelloWorldNet6\obj\Debug\net6.0\HelloWorldNet6.genruntimeconfig.cache

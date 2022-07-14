@@ -1,0 +1,5 @@
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
