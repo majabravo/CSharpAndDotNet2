@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FullStackDevelopment\\CSharpAndDotNet2\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj": {}
+    "D:\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj": {}
   },
   "projects": {
-    "D:\\FullStackDevelopment\\CSharpAndDotNet2\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj": {
+    "D:\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FullStackDevelopment\\CSharpAndDotNet2\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj",
+        "projectUniqueName": "D:\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj",
         "projectName": "Numbers",
-        "projectPath": "D:\\FullStackDevelopment\\CSharpAndDotNet2\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj",
+        "projectPath": "D:\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FullStackDevelopment\\CSharpAndDotNet2\\Chapter02\\Chapter02\\Numbers\\obj\\",
+        "outputPath": "D:\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

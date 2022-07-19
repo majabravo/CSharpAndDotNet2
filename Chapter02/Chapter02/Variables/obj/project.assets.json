@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FullStackDevelopment\\CSharpAndDotNet2\\Chapter02\\Chapter02\\Variables\\Variables.csproj",
+      "projectUniqueName": "D:\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Variables\\Variables.csproj",
       "projectName": "Variables",
-      "projectPath": "D:\\FullStackDevelopment\\CSharpAndDotNet2\\Chapter02\\Chapter02\\Variables\\Variables.csproj",
+      "projectPath": "D:\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Variables\\Variables.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\FullStackDevelopment\\CSharpAndDotNet2\\Chapter02\\Chapter02\\Variables\\obj\\",
+      "outputPath": "D:\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

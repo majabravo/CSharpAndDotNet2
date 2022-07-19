@@ -1,0 +1,15 @@
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.exe
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.deps.json
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.runtimeconfig.json
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\bin\Debug\net6.0\ref\SelectionStatements.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.pdb
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfo.cs
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\obj\Debug\net6.0\ref\SelectionStatements.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.pdb
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.genruntimeconfig.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.AssemblyReference.cache

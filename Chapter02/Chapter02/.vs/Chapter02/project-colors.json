@@ -5,7 +5,17 @@
       "ProjectGuid": "85200577-437f-460f-abef-02b776dde755",
       "DisplayName": "Vocabulary",
       "ColorIndex": 0
+    },
+    "7d135a3d-ca68-4136-96e7-fada8d08c49d": {
+      "ProjectGuid": "7d135a3d-ca68-4136-96e7-fada8d08c49d",
+      "DisplayName": "Numbers",
+      "ColorIndex": 1
+    },
+    "9850748c-e25c-4569-837b-fb78067d2809": {
+      "ProjectGuid": "9850748c-e25c-4569-837b-fb78067d2809",
+      "DisplayName": "Variables",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

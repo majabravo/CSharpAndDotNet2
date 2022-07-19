@@ -1,0 +1,15 @@
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\bin\Debug\net6.0\Operators.exe
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\bin\Debug\net6.0\Operators.deps.json
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\bin\Debug\net6.0\Operators.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\bin\Debug\net6.0\ref\Operators.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\bin\Debug\net6.0\Operators.pdb
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\obj\Debug\net6.0\Operators.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\obj\Debug\net6.0\ref\Operators.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\obj\Debug\net6.0\Operators.pdb
+D:\FullStackDevelopment\CSharpAndDotNet\Operators\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache

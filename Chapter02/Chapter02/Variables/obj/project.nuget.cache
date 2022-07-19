@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Btkd7WKfxuvQFtamBy575S8e55o9mmT7gmpLRLtldubChCBoyRQFM0M55VbX+kjXYoAbg+QL/nosbuooTWLqfA==",
+  "dgSpecHash": "3S8T8/N8+4ISn8jQPmVhY3IMKo9Myyv3M05SDsWH+LEYzQQHwzncbrt8qHh+pvm53shQVdxt8v0xgvQwQSF7GQ==",
   "success": true,
-  "projectFilePath": "D:\\FullStackDevelopment\\CSharpAndDotNet2\\Chapter02\\Chapter02\\Variables\\Variables.csproj",
+  "projectFilePath": "D:\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Variables\\Variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
