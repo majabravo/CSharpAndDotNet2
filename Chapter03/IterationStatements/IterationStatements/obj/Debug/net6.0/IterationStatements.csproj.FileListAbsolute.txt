@@ -1,0 +1,15 @@
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\bin\Debug\net6.0\IterationStatements.exe
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\bin\Debug\net6.0\IterationStatements.deps.json
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\bin\Debug\net6.0\IterationStatements.runtimeconfig.json
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\bin\Debug\net6.0\IterationStatements.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\bin\Debug\net6.0\ref\IterationStatements.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\bin\Debug\net6.0\IterationStatements.pdb
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfo.cs
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\obj\Debug\net6.0\ref\IterationStatements.dll
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.pdb
+D:\FullStackDevelopment\CSharpAndDotNet\Chapter03\IterationStatements\IterationStatements\obj\Debug\net6.0\IterationStatements.genruntimeconfig.cache
