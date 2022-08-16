@@ -1,4 +1,5 @@
 ﻿using static System.Console;
+using static System.Convert;
 int a = 10;
 double b = a; // an int can be safely cast into a double
 WriteLine("{0} type is {1}", b, b.GetType());
@@ -19,11 +20,22 @@ foreach (double n in doubles)
 {
     WriteLine($"ToInt32({n}) is {ToInt32(n)}");
 }
+// allocate array of 128 bytes
+byte[] binaryObject = new byte[128];
 
-object ToInt32(double n)
+// populate array with random bytes
+(new Random()).NextBytes(binaryObject);
+
+WriteLine("Binary Object as bytes:");
+for (int index = 0; index < binaryObject.Length; index++)
 {
-    throw new NotImplementedException();
+    Write($"{binaryObject[index]:X} ");
 }
+WriteLine();
+
+// convert to Base64 string and output as text
+string encoded = ToBase64String(binaryObject);
+WriteLine($"Binary Object as Base64: {encoded}");
 
 foreach (double n in doubles)
 {
@@ -33,3 +45,23 @@ foreach (double n in doubles)
     arg1: Math.Round(value: n, digits: 0,
     mode: MidpointRounding.AwayFromZero));
 }
+int number = 12;
+WriteLine(number.ToString());
+
+bool boolean = true;
+WriteLine(boolean.ToString());
+
+DateTime now = DateTime.Now;    
+WriteLine(now.ToString());
+
+object me = new();
+WriteLine(me.ToString());
+
+
+
+int age = int.Parse("27");
+DateTime birthday = DateTime.Parse("4 July 1980");
+WriteLine($"I was born{age} years ago.");
+WriteLine($"My birthday is {birthday}.");
+WriteLine($"My birthday is {birthday:D}.");
+
